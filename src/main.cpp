@@ -9,3 +9,8 @@ int main (void) {
 
     return 0;
 }
+
+/*
+
+build command: g++ -o build/app.exe src/main.cpp
+*/
