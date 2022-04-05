@@ -15,6 +15,9 @@ int main (void) {
     }
     newfile.close(); //close the file object.
     }
+    cout << "==================================" << endl;
+    cout << "========= Fin del programa ========" << endl;
+
 }
 
 /*
